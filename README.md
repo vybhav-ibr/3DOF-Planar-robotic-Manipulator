@@ -1,5 +1,5 @@
 # 3DOF-Planar-robotic-Manipulator
-Making a 3DOF planar manipulator which uses inverse kinematics.
+Making a 3DOF planar manipulator(Physical Model) which uses inverse kinematics.
 
 In this project I plan to create a 3DOF planar robot using the arduino platform.
 When the final position coordinates and the link lengths are given to code,
